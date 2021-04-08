@@ -4,7 +4,7 @@ openbox setup for gigachads
 # install
 ```sh
 ./install.sh # installs arch
-./rice-install.sh # installs rice
+./rice-installer.sh # installs rice
 ```
 
 # dependencies
