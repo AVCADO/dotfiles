@@ -1,0 +1,4 @@
+pgrep feh 2>/dev/null || feh --bg-scale ~/Backgrounds/962961.jpg
+
+pgrep tint2 2>/dev/null || tint2 &
+pgrep picom 2>/dev/null || picom &
